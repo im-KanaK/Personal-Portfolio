@@ -13,13 +13,13 @@ const Projects = () => {
       <div className="project-list-container">
         <div className="project-one" data-aos="flip-left">
           <h2>PERSONAL PORTFOLIO WEBSITE</h2>
-          <a href="http://">
+          <a href="https://kanakd-portfolio.netlify.app/">
             <button>VISIT MY WEBSITE</button>
           </a>
         </div>
         <div className="project-two" data-aos="flip-right">
         <h2>STACK OVERFLOW CLONE</h2>
-          <a href="http://">
+          <a href="https://stackoverflow-kanak.netlify.app/">
             <button>VISIT MY WEBSITE</button>
           </a>
         </div>
