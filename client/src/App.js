@@ -1,5 +1,5 @@
 import "./App.css";
-import React, { useState } from "react";
+import React from "react";
 import Profile from "./PortfolioContainer/Profile/Profile"
 import Skills from "./PortfolioContainer/Skills/Skills";
 import Project from "./PortfolioContainer/Projects/Projects";
