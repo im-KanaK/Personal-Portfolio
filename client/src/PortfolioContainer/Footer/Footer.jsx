@@ -8,7 +8,7 @@ const Footer = () => {
         <a href="https://www.facebook.com/kanak.dubey.923724?mibextid=ZbWKwL">
           <i className="fa fa-facebook-square"></i>
         </a>
-        <a href="https://www.linkedin.com/in/kanakdubey">
+        <a href="https://www.instagram.com/kanakdubey_/">
           <i className="fa fa-instagram"></i>
         </a>
         <a href="https://twitter.com/_kanakdubey">
