@@ -10,7 +10,7 @@ import sql from "../../assets/Home/SQLlogo.png";
 import c from "../../assets/Home/Clogo.png";
 import {useEffect} from "react";
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+//import 'aos/dist/aos.css';
 
 const Skills = () => {
 
