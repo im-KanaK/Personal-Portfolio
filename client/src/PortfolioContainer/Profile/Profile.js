@@ -63,7 +63,7 @@ const Profile = () => {
           <div className="profile-options">
           
             
-            <a href="Resume_KanakDubey.pdf" download="Resume_KanakDubey.pdf">
+            <a href="Resume_KanakDubey.pdf" download="Resume_kanakdubey.pdf">
               <button className=" btn highlighted-btn">Get Resume</button>
             </a>
           </div>
