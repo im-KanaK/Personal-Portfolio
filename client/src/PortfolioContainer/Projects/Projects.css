@@ -343,7 +343,6 @@
     position: relative;
     margin-top: 135rem;
     width: 100%;
-
     height: 34rem;
   }
 
@@ -404,6 +403,13 @@
 }
 
 @media screen and (max-width: 360px) and (max-height: 640px) {
+
+  .project-container {
+    position: relative;
+    margin-top: 135rem;
+    width: 119%;
+    height: 34rem;
+  }
   
   .project-two {
     height: 15rem;
