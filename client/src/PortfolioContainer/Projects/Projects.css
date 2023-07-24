@@ -402,3 +402,13 @@
     font-size: 13px;
   }
 }
+
+@media screen and (max-width: 360px) and (max-height: 640px) {
+  
+  .project-two {
+    height: 15rem;
+    margin-left: 8rem;
+    margin-top: -13rem;
+    width: 15rem;
+  }
+}
