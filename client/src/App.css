@@ -64,6 +64,8 @@
   .profile-details{
     height:330px;
     width:330px;
+    position:relative;
+    left:0rem;
   }
 }
 @media screen and (max-width: 412px ) and (max-height:914px) {
