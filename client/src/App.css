@@ -55,7 +55,7 @@
   
 }
 
-@media screen and (max-width: 376px) {
+@media screen and (max-width: 320px) {
   .dark-btn{
     position: relative;
     top: 2rem;
