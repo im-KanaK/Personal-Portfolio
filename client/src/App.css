@@ -61,12 +61,17 @@
     top: 2rem;
     left: 22rem;
   }
+  
 }
 @media screen and (max-width: 412px ) and (max-height:914px) {
   .dark-btn{
     position: relative;
     top: 2rem;
     left: 22rem;
+  }
+  .profile-container{
+    position: relative;
+    left:-3rem;
   }
 }
 
